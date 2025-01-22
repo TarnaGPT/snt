@@ -1,0 +1,50 @@
+/* Je souhaite afficher les titres de taille h1 en couleur rouge, avec une hauteur de lignes égale à 5*/
+h1{
+color:rgb(0, 81, 255);
+font-size:50px
+}
+
+/* Je souhaite que le contenu des paragraphes, c'est à dire tout ce qui est contenu entre les balises <p> ... </p> soit noté en gris*/
+p{
+color:black;
+font-style: normal;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+h3{
+  font-size: 60px;
+  text-align: center;
+  color:blue ;
+  font-family: 'Times New Roman';
+  font-style:bold ;
+}
+
+#header {
+    height: 75px;
+    background-color:black ;
+    top : 0;
+}
+
+h6 {
+  text-align:center;
+  color: blue ;
+  font-size: 60px;
+}
+h4 {
+  font-style: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  font-size: 9px;
+  color:white;
+}
+
+body {
+  background-color:rgb(255, 136, 0);
+  background-size:100%;
+  background-position: 50% 80%;
+  background-repeat: no-repeat;
+  background: linear-gradient(to top,rgb(255, 234, 0),rgb(255, 149, 0));
+}
